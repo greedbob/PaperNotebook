@@ -1,13 +1,14 @@
 ## Ionic liquids-filled patterned cavities improve transmittance of transparent and stretchable electronic polydimethylsiloxane films  
-## 离子液体填充的图案化腔改善透明和可拉伸的电子PDMS膜的透射率
+## 透明和可拉伸的PDMS膜内图案化空腔填充离子液体以改善电子的透射率
 
 > Journal of Materials Science  
 > J Mater Sci (2019) 1–11  
 > DOI: 10.1007/s10853-019-03682-7  
+> > Pengdong Feng, Xinyu Wang, Beibei Lu, Guangxing Pan, Xuesong Leng, Xing Ma, Jiaheng Zhang, Weiwei Zhao
 
 ### Abstract
 Transparent electrodes for flexible and wearable devices require considerable stretchability and patterned conductive materials. Transparent and stretchable polydimethylsiloxane (PDMS) films with patterned cavities were prepared by laser processing and transfer printing. Transparent conductive ionic liquids (ILs) and aqueous solution (AS) were injected into the cavities, obtaining electrodes with transmittance in the visible range of 99.94% (relative to blank PDMS films) and 92.80% (relative to air). This transmittance was almost identical to that of a blank PDMS film. The maximum tensile strain applied to the electrodes was 117.23%, and the resistance of the electrodes with network patterns measured by the four-probe method was 3.20 kΩ. After 10,000 stretching/releasing cycles under strain of 0–50%, these electrodes still performed optimally. The ILs and AS showed various transmittance and electrical properties. The electrodes with ILs had higher transmittance, while those with AS showed increased conductivity. These electrodes with five patterns (serpentine, circle, straight line, fold line, and rhombus) were analyzed. The pattern containing curves with a large curvature would result in a severe local stress concentration in the stretching process. Patterns containing parallel curves could optimize electrical conductivity. And patterns containing complex curves had a certain effect on the transmittance. In addition, taking advantage of the fact that the elastomer and the liquid can deform at will, these electrodes were used to fabricate two pressure sensors and two strain sensors, which were employed to demonstrate their sensitivity stability during cycling.  
-用于柔性和可穿戴设备的透明电极需要相当大的可拉伸性和图案化导电材料。通过激光加工和转移印刷制备具有图案化空腔的透明且可拉伸的聚二甲基硅氧烷（PDMS）膜。将透明导电离子液体（IL）和水溶液（AS）注入空腔中，获得透射率在99.94％（相对于空白PDMS膜）和92.80％（相对于空气）的可见光范围内的电极。该透射率几乎与空白PDMS膜的透射率相同。施加到电极的最大拉伸应变为117.23％，通过四探针法测量的具有网络图案的电极的电阻为3.20kΩ。在0-50％的应变下进行10,000次拉伸/释放循环后，这些电极仍然表现最佳。 IL和AS显示出各种透射率和电性质。具有IL的电极具有较高的透射率，而具有AS的电极具有增加的电导率。分析了具有五种图案（蛇形，圆形，直线，折叠线和菱形）的这些电极。包含具有大曲率的曲线的图案将导致拉伸过程中的严重局部应力集中。包含平行曲线的图案可以优化导电性。含有复杂曲线的图案对透射率有一定影响。此外，利用弹性体和液体可随意变形的事实，这些电极用于制造两个压力传感器和两个应变传感器，用于证明它们在循环期间的灵敏度稳定性。
+用于柔性和可穿戴设备的透明电极需要可拉伸且可以图案化导电的材料。通过激光加工和转移印刷制备具有图案化空腔的透明且可拉伸的聚二甲基硅氧烷（PDMS）膜。将透明导电离子液体（IL）和水溶液（AS）注入空腔中，获得透射率在99.94％（相对于空白PDMS膜）和92.80％（相对于空气）的可见光范围内的电极。该透射率几乎与空白PDMS膜的透射率相同。施加到电极的最大拉伸应变为117.23％，通过四探针法测量的具有网络图案的电极的电阻为3.20kΩ。在0-50％的应变下进行10,000次拉伸/释放循环后，这些电极仍然表现最佳。导电离子液体（IL）和水溶液（AS）显示出各种透射率和电性质，具有IL的电极具有较高的透射率，而具有AS的电极具有较高的电导率。本文分析了具有五种图案（蛇形，圆形，直线，折叠线和菱形）的电极。包含具有大曲率的曲线的图案将导致拉伸过程中的严重局部应力集中。包含平行曲线的图案可以优化导电性。含有复杂曲线的图案对透射率有一定影响。此外，弹性体和液体可随意变形，我们将此电极制造了两个压力传感器和两个应变传感器，用于证明它们在循环期间的灵敏度稳定性。
 
 ### Introduction
 Stretchable and transparent electronic skin is characterized by strain and pressure sensitivity and has a broad application potential in touch sensors, energy-harvesting devices, heaters, triboelectric nanogenerators, neural circuits, electrochromic devices, and biomedical detection devices [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].  
@@ -29,19 +30,19 @@ Here, we report a highly stretchable transparent and patterned electronic skin u
 在这里，我们报告了一种高度可拉伸的透明和图案化电子皮肤，使用液体作为导电载体。透明导电流体与不透明固体导电材料相比具有至少两个优点。首先，导电液体是透明的，因此，制备的电子皮肤的透光率可以非常接近透明弹性体本身的透光率。其次，导电液体可以与弹性基体保持完美匹配以及弹性体的任何变形，而固体和基体之间的固有机械失配极大地限制了拉伸性能[39,40]。由于弹性体是可全方位拉伸和全可压缩的，因此可以容易地制备对应变和压力敏感的电子皮肤。因此，将导电和透明离子液体（IL）和水溶液（AS）注入透明和可拉伸PDMS膜的图案化空腔中。另外，测量电极的电学和拉伸性能。超过10,000次拉伸/释放循环中从未发生过故障。还研究了五种图案的拉伸性和透射率，包括蛇形，圆形，直线，折叠线和菱形。发现图案化网络将电阻降低一个数量级。本文重点研究了两个压力传感器和两个应变传感器的灵敏度，这些传感器具有直线网络和菱形网络模式。
 
 ### Experimental
-- *Materials*
+- **Materials**
 PDMS, polyvinyl chloride (PVC) sheet, AgNWs (200 μm diameter), 1-butyl-3-methylimidazolium hexafluorophosphate, potassium chloride (KCl), anhydrous sodium sulfate (Na2SO4), (KCl + Na2SO4)-saturated AS, and AgNO3 AS were obtained for these experiments.  
 PDMS，聚氯乙烯（PVC）板，AgNW（直径200μm），1-丁基-3-甲基咪唑六氟磷酸盐，氯化钾（KCl），无水硫酸钠（Na2SO4），（KCl + Na2SO4） -饱和AS和AgNO3 AS。
 
-- *Patterned cavities*
+- **Patterned cavities**
 A 0.4-mm sheet of PVC was cut into the required pattern using an ultraviolet laser marking machine (HYM-05355A). The patterned PVC was then attached to another flat PVC sheet to create a pattern template. The liquid-cured PDMS was cast onto the template and sintered in a blast drying oven at 50 °C for 110 min. The 1-mm-thick PDMS film with patterned grooves was peeled off the template, and the transfer process was completed. The liquid PDMS was cast onto a flat blank PVC template and sintered at 50 °C for 70 min, to obtain a blank 2-mm-thick PDMS film with a sticky surface. The patterned PDMS substrate surface was coated with a small amount of curing agent and then covered with the flat PDMS film. The grooves were thus turned into cavities, and the entire piece was dried at 50 °C for 90 min to improve the consistency of the connection interface. The thickness of the entire film was 1.2 mm, and the cross-section size of the cavity was 0.8 × 0.4 mm.  
 使用紫外激光打标机（HYM-05355A）将0.4mm的PVC片切割成所需的图案。然后将图案化的PVC连接到另一个平的PVC片材上以形成图案模板。将液体固化的PDMS浇铸到模板上，并在鼓风干燥箱中在50℃下烧结110分钟。将具有图案化凹槽的1mm厚的PDMS膜从模板上剥离，并完成转移过程。将液体PDMS浇铸到平坦的空白PVC模板上并在50℃下烧结70分钟，以获得具有粘性表面的空白2mm厚的PDMS膜。图案化的PDMS基底表面涂有少量固化剂，然后用平坦的PDMS膜覆盖。因此将凹槽变成空腔，并将整个部件在50℃下干燥90分钟以改善连接界面的一致性。整个膜的厚度为1.2mm，腔的截面尺寸为0.8×0.4mm。
 
-- *Transparent electrodes*
+- **Transparent electrodes**
 Four AgNWs were placed at the end of the cavity and used as probes. The ILs or the AS was injected into the cavities, followed by sealing the injection ports with liquid PDMS. After the PDMS was cured, the patterned electrodes used in this study were fabricated.  
 将四个AgNW放置在腔的末端并用作探针。将IL或AS注入空腔中，然后用液体PDMS密封注入口。在PDMS固化后，制造本研究中使用的图案化电极。
 
-- *Characterization*
+- **Characterization**
 Current versus voltage curves were characterized with an electrochemical workstation. Optical transmittance was measured with a Shimadzu UV-1800 ultraviolet/visible/near-infrared (UV/VIS/NIR) spectrophotometer (Shimadzu Corp., Kyoto, Japan). Tensile strains and stretching/releasing cycles were tested in a computer numerical control (CNC) screw slide rail, and the resistance was measured with a four-probe ET96 resistivity measurement system (East Changing Technologies, Inc., Beijing, China). Previous research used blank substrates for reference, and thus, blank PDMS films were employed as reference in this study. The reference film was obtained from the blank area of the sample to be tested, which reduced the effect that the thickness variation had on the transmittance test results. We also tested the transmittance of the samples using air as reference.  
 用电化学工作站表征电流与电压曲线。用Shimadzu UV-1800紫外/可见/近红外（UV /VIS /NIR）分光光度计（Shimadzu Corp.，Kyoto，Japan）测量光学透射率。在计算机数控（CNC）螺杆滑轨中测试拉伸应变和拉伸/释放循环，并且用四探针ET96电阻率测量系统（East Changing Technologies，Inc.，Beijing，China）测量电阻。以前的研究使用空白基质作为参考，因此，在本研究中使用空白PDMS膜作为参考。从待测样品的空白区域获得参考膜，这降低了厚度变化对透射率测试结果的影响。我们还使用空气作为参考测试了样品的透射率。
 
@@ -57,7 +58,7 @@ The mechanical and electrical properties of these electrodes are listed in Table
 表1中列出了这些电极的机械和电气性能。所有五种图案都承受了超过100％的拉伸应变，表明它们具有很好的拉伸性。尽管PDMS的最大应变达到340％，但它与制备过程中的温度和时间参数密切相关。因此，在超过200分钟的烧结后，拉伸性能劣化。具有IL的电极的电阻显着高于具有AS的电极的电阻，这与图1b-d中所示的数据一致。由于每单位面积的线长度较长，所有图案中电极与蛇形图案的电阻最高，而圆圈表现出更好的电性能。
 
 Pattern | Max strain | Resistance (ILs)/kΩ | Resistance (KCl + Na2SO4 AS)/kΩ | Resistance (AgNO3 AS)/kΩ
-- | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-:
 Serpentine | 113% | 568 | 29 | 24
 Circle | 101% | 210 | 12 | 12
 Straight line | 114% | 248 | 28 | 13
