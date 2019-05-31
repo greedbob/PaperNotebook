@@ -1,10 +1,9 @@
 ## Ionic liquids-filled patterned cavities improve transmittance of transparent and stretchable electronic polydimethylsiloxane films  
 ## 透明和可拉伸的PDMS膜内图案化空腔填充离子液体以改善电子的透射率
 
-> Journal of Materials Science  
-> J Mater Sci (2019) 1–11  
+> Journal of Materials Science (2019) 1–11  
 > DOI: 10.1007/s10853-019-03682-7  
-> > Pengdong Feng, Xinyu Wang, Beibei Lu, Guangxing Pan, Xuesong Leng, Xing Ma, Jiaheng Zhang, Weiwei Zhao
+> Pengdong Feng, Xinyu Wang, Beibei Lu, Guangxing Pan, Xuesong Leng, Xing Ma, Jiaheng Zhang, Weiwei Zhao
 
 ### Abstract
 Transparent electrodes for flexible and wearable devices require considerable stretchability and patterned conductive materials. Transparent and stretchable polydimethylsiloxane (PDMS) films with patterned cavities were prepared by laser processing and transfer printing. Transparent conductive ionic liquids (ILs) and aqueous solution (AS) were injected into the cavities, obtaining electrodes with transmittance in the visible range of 99.94% (relative to blank PDMS films) and 92.80% (relative to air). This transmittance was almost identical to that of a blank PDMS film. The maximum tensile strain applied to the electrodes was 117.23%, and the resistance of the electrodes with network patterns measured by the four-probe method was 3.20 kΩ. After 10,000 stretching/releasing cycles under strain of 0–50%, these electrodes still performed optimally. The ILs and AS showed various transmittance and electrical properties. The electrodes with ILs had higher transmittance, while those with AS showed increased conductivity. These electrodes with five patterns (serpentine, circle, straight line, fold line, and rhombus) were analyzed. The pattern containing curves with a large curvature would result in a severe local stress concentration in the stretching process. Patterns containing parallel curves could optimize electrical conductivity. And patterns containing complex curves had a certain effect on the transmittance. In addition, taking advantage of the fact that the elastomer and the liquid can deform at will, these electrodes were used to fabricate two pressure sensors and two strain sensors, which were employed to demonstrate their sensitivity stability during cycling.  
@@ -51,6 +50,7 @@ The fabrication process of the stretchable and transparent electrodes is shown i
 可拉伸和透明电极的制造过程如图1a所示。将液体固化的PDMS涂覆到两种类型的模板上，获得具有图案化凹槽的PDMS膜和另一个空白平膜。将AS或IL注入通过这两个膜的连接形成的空腔中，然后用液体PDMS密封注入口。使用1.2mm厚的空白PDMS膜作为参考，该电极的透射率高达99.94％。 （KCl + Na2SO4）AS和ILs的电流 -电压（C-V）曲线分别如图1b，c所示。当施加的电压达到1V时，（KCl + Na2SO4）AS的电流为2.92×10-3A，这比ILs的5.19×10-5A高56倍。由于传导机制不是欧姆接触，两条曲线不是具有恒定斜率的直线。浓度为1,2和3mol /L的AgNO3 AS的C-V曲线显示在图1d中。与上述两种液体不同，该AS的C-V曲线几乎是一条具有恒定斜率的直线，因为导电机制与电镀相同。当施加的电压达到1 V时，电流为1.98×10-2 A（1 mol /L），2.79×10-2 A（2 mol /L）和2.61×10-2 A（3 mol /L） ，比（KCl + Na2SO4）AS高一个数量级。
 
 ![Fig1_HTML.png](imgs/Fig1_HTML.png)
+
 Figure 1 Preparation and characterization of the electrodes. a The schematic shows the fabrication process of the stretchable transparent electrodes with a rhombus-patterned network. b Current versus voltage (C–V) curve of the (KCl + Na2SO4) aqueous solution; the inset shows an optical photo of this solution. c Current versus voltage curve of the ILs; the insets show an optical image and the molecular formula of 1-butyl-3-methylimidazolium hexafluorophosphate. d C–V curve of the AgNO3 AS at different concentrations; the inset shows an optical image of this solution.  
 图1电极的制备和表征。 a该示意图显示了具有菱形图案网络的可拉伸透明电极的制造过程。 b（KCl + Na2SO4）水溶液的电流 -电压（C-V）曲线;插图显示了该解决方案的光学照片。 c IL的电流与电压曲线;插图显示了1-丁基-3-甲基咪唑六氟磷酸盐的光学图像和分子式。 d AgNO3 AS在不同浓度下的C-V曲线;插图显示了该解决方案的光学图像。
 
@@ -69,6 +69,7 @@ The optical transmittance of these stretchable and transparent electrodes is sho
 这些可拉伸透明电极的光学透射率如图2所示。具体地说，图2a显示了具有两种填充液体和五种图案的10个电极的照片，在表2中给出。在第一张照片中，例如，该电极的空腔图案是蛇形的，填料是水溶液。由于几乎100％的光学透射率，10张照片显示没有显着差异。它们看起来高度透明，并展现出清晰的背景标志。使用AS作为填充液，这些图案模糊不清，而ILs作为填充液，图案是不可见的。以空气为参照的空白PDMS薄膜的透射率如图2b所示。厚度的增加导致透射率的小幅下降。厚度为1 mm时，700 nm处的透射率为93.91％，400 nm处的透射率为92.38％，随着波长的减小，透射率降低1.53％，表明PDMS膜对电磁波的吸收随着能量的增加而增加。光子。结果，PDMS膜的透射率在近紫外区域逐渐降低。厚度为1.2mm，透射率在700nm处为92.93％，在400nm处为90.44％。
 
 ![Fig2_HTML.png](imgs/Fig2_HTML.png)
+
 Figure 2. Optical transmittance of the five patterns when the conductive fillers were AS or ILs. a Photographs of the 10 electrodes are given in Table 2. b Transmittance of PDMS films of different thickness at wavelength from 400 to 700 nm. c Transmittance at wavelength from 400 to 700 nm when the filler was AS, and the reference was a blank PDMS film. d Transmittance when the filler was AS and the reference was air. e Transmittance when the filler was ILs and the reference was the blank PDMS substrate. f Transmittance when the filler was ILs and the reference was air  
 图2.当导电填料为AS或IL时，五种图案的光学透射率。 a表10中给出了10个电极的照片.b在400至700nm波长下不同厚度的PDMS膜的透射率。 c当填料为AS时，波长为400至700nm的透射率，参考为空白PDMS薄膜。 d当填料为AS且参考为空气时的透射率。 e当填料为IL且参考物为空白PDMS基板时的透射率。 f当填料为IL且参考为空气时的透射率
 
@@ -90,6 +91,7 @@ In order to evaluate the stretching properties, the electrodes with two types of
 ε=（L-L0）/L0（1）其中L0表示样品的初始长度，L表示拉伸后的长度。
 
 ![Fig3_HTML.png](imgs/Fig3_HTML.png)
+
 Figure 4 Stretching properties of the transparent electrodes with AgNO3 solution. a Resistance versus strain curves when the pattern was straight-line networks. b Resistance after 10,000 stretching/releasing cycles under strain of 0–50% when the pattern was straight-line networks. c Resistance versus strain curves when the pattern was rhombus networks. d Resistance after 10,000 stretching/releasing cycles under strain of 0–50% when the pattern was rhombus networks  
 用AgNO3溶液拉伸透明电极的性质。 a图案为直线网络时的电阻与应变曲线。 b当图案为直线网络时，在0-50％的应变下经过10,000次拉伸/释放循环后的电阻。 c图案为菱形网络时的阻力与应变曲线。 d当图案为菱形网络时，在0-50％的应变下经过10,000次拉伸/释放循环后的阻力
 
@@ -118,6 +120,7 @@ Additionally, two pressure sensors made with these transparent stretchable elect
 另外，用这些透明可拉伸电极制成的两个压力传感器显示是由于对压力的响应，如图4所示。电子皮肤的压力传感器连接到手背，手指压力导致电气变化阻力，如图4a所示。而且，腔的图案对灵敏度有一定程度的影响。电阻的变化率（R /R0）由下式给出：R /R0 =（R-R0）/R0，（2）其中R0表示初始电阻，R表示压力下的电阻。
 
 ![Fig4_HTML.png](imgs/Fig4_HTML.png)
+
 Figure 4. Sensitivity of two pressure sensors a Sensors attached to the back of the hand can sense the applied pressure. For the pattern of straight-line networks, the applied pressure varying with time is shown in b, the corresponding resistance change rate is shown in c, and the effect of different pressures on the resistance change rate is shown in (d). For the pattern of rhombus networks, the applied pressure varying with time is shown in (e), the corresponding resistance change rate is shown in (f), and the effect of different pressures on the resistance change rate is shown in (g)  
 图4.两个压力传感器的灵敏度附着在手背上的传感器可以感应施加的压力。对于直线网络的模式，施加的压力随时间变化如b所示，相应的电阻变化率用c表示，不同压力对电阻变化率的影响如（d）所示。对于菱形网络的模式，施加的压力随时间变化如（e）所示，相应的电阻变化率如（f）所示，不同压力对电阻变化率的影响如（g）所示。
 
@@ -131,6 +134,7 @@ In addition, two strain sensors with patterns of straight-line networks and rhom
 此外，制作了两个具有直线网络和菱形网络图案的应变传感器，如图5所示。在0-50％的应变下进行拉伸/释放和再拉伸循环时，电极的电阻因为应变传感器显示增加/减少和再增加循环。当网络图案是直线之一时，记录了施加不同时间的50个拉伸应变循环，如图5a所示，电阻变化的相应灵敏度如图5b所示。施加的应变以每秒8.18％的恒定速率增加和减少，并且总共进行50次拉伸/释放循环。类似地，该传感器总共响应50个循环，并且50％应变下的灵敏度为47％，应变系数为0.92。在每个循环中，当应变为0（ε= 0）时电阻最小（波谷），当应变为50％（ε= 50％）时电阻最大（波峰）。
 
 ![Fig5_HTML.png](imgs/Fig5_HTML.png)
+
 Figure 5 Sensitivity of two strain sensors with patterns of straight-line networks and rhombus networks. The 50 tensile strain cycles applied with 0–50% varying time are shown in (a) and (b), and the corresponding sensitivity of resistance change is shown in (c) and (d)
 图5 具有直线网络和菱形网络模式的两个应变传感器的灵敏度。施加0-50％变化时间的50个拉伸应变循环显示在（a）和（b）中，并且相应的电阻变化灵敏度显示在（c）和（d）中
 
@@ -144,6 +148,7 @@ A summary of the properties of the stretchable and transparent electrodes is giv
 图6给出了可拉伸和透明电极特性的总结，说明了在这项工作中实现的最高光学透射率和明显的拉伸性。黑色五角星代表以空气为基准的透射率，高于所有其他作品。红色五角星给出了以PDMS基底为参考的透射率。在这项工作中，很少有工件表现出比电极更高的最大拉伸应变，这是由弹性体基材本身具有更好的可拉伸性能引起的。液态金属，碳纳米管和金属纳米线在其他工作中用作导电载体，其通过导电材料之间的大量间隙实现透明性质。除了间隙之外，透明和导电液体还可以在这项工作中将光学透射率从92％（Ref.7）提高到99.94％。
 
 ![Fig6_HTML.png](imgs/Fig6_HTML.png)
+
 Figure 6 A summary of the stretchable and transparent electrodes
 
 ### Conclusion
