@@ -28,8 +28,23 @@ Considering the above-discussed scenario and the existing knowledge, within the 
 Materials used in the present work, such as N-propyl-N-methylpyrrolidinium bis(trifluoromethanesulfonyl)imide (PYR13TFSI), ethylene carbonate (EC), dimethyl carbonate (DMC), fluoroethylene carbonate (FEC), vinylene carbonate (VC) and lithium bis(trifluoromethanesulfonyl) imide (LiTFSI) were provided by Solvionic (battery grade). RTIL-based electrolyte mixtures were prepared at ambient temperature by mixing in proportions all selected compounds under the controlled atmosphere of an Ar-filled dry glove box (Jacomex GP [concept], [O2] and [H2O] < 1 ppm), as listed in Table 1.   
 本工作中使用的材料，如N-丙基-N-甲基吡咯烷双（三氟甲磺酰）亚胺（PYR13TFSI），碳酸亚乙酯（EC），碳酸二甲酯（DMC），氟代碳酸亚乙酯（FEC），碳酸亚乙烯酯（VC）和锂双（三氟甲磺酰基）酰亚胺（LiTFSI）由Solvionic（电池级）提供。在环境温度下，通过在Ar填充的干燥手套箱（Jacomex GP [概念]，[O 2]和[H 2 O] <1 ppm）的受控气氛下按比例混合所有选定的化合物来制备基于RTIL的电解质混合物，如所列出的见表1。
 
+Sample name | Electrolyte composition
+:-: | :-:
+RT-1 | 0.3M LiTFSI in PYR13TFSI
+RT-2 | 0.3M LiTFSI in [EC/DMC + PYR13TFSI] (50:50)
+RT-VC-3 | 0.3M LiTFSI in [EC/DMC + PYR13TFSI + VC] (45:45:10)
+RT-FEC-4 | 0.3M LiTFSI in [EC/DMC + PYR13TFSI + FEC] (45:45:10)
+
+Table 1. List and compositions of the different electrolyte cocktails under study, which were prepared in various proportions of RTILs, carbonate solvents, lithium salt and additives under the controlled atmosphere of an Ar-filled dry glove box.  
+表1.研究中的不同电解质混合物的列表和组成，其在Ar填充的干燥手套箱的受控气氛下以各种比例的RTIL，碳酸盐溶剂，锂盐和添加剂制备。
+
 The organic carbonates EC and DMC were mixed in 1:1 weight proportion, to which LiTFSI salt was added in the appropriate amount upon stirring to induce thorough dissolution, and used for further formulations. Materials were soluble and easily miscible, hence, no phase separation or turbidity was observed.   
 将有机碳酸酯EC和DMC以1：1的重量比例混合，在搅拌下向其中加入适量的LiTFSI盐以诱导彻底溶解，并用于进一步的配方。材料是可溶的并且易于混溶，因此没有观察到相分离或浑浊。
 
 The polymer electrolyte preparation began with formulating a prepolymer mixture, which contained a dimethacrylate-based cross-linker (bisphenol A ethoxylate (15 EO/phenol) dimethacrylate – BDM, Mn=1700 g mol−1, Sigma Aldrich), a poly(ionic liquid) [(poly(diallyldimethyl ammonium bis(fluorosulfonyl)imide, (C10H16F2N2O4S2)n, PDDA-FSI, Mn=100,000 g mol−1)], a lithium source (LiTFSI) and a suitable ultraviolet (UV) light sensitive free radical initiator (2-hydroxy-2-methyl-1-phenyl-propan-1-one, D1173, Ciba Speciality Chemicals). Unless otherwise stated, all materials were battery-grade and used without further treatment. The crosslinked polymer electrolyte was prepared by thoroughly mixing the pre-polymer mixture with the best performing RTIL-based electrolyte cocktail in the appropriate proportions of 20:20:10:50 in BDM, PDDA-FSI, LiTFSI and RT-FEC-4, including 2 wt.% of D1173. In details, PDDA-FSI was firstly added to the RT-FEC-4 at 60 °C upon vigorous stirring to allow for proper dissolution; then, temperature was reduced to ambient temperature and the remaining components were added stepwise. The resulting viscous liquid reactive mixture was cast in the form of a film, which was then placed in a quartz glass tube and UV irradiated for 3 min to obtain a flexible, self-standing and fully transparent polymer electrolyte membrane of about 90 ± 10 μm thickness (see Fig. 8A) [24,26]. The sample preparation procedure was carried out in an environmentally controlled atmosphere, i.e., a dry room with a relative humidity of less than 2% (20 °C, 10m2; Soimar, Italy).  
 聚合物电解质制备开始于配制预聚物混合物，其含有基于二甲基丙烯酸酯的交联剂（双酚A乙氧基化物（15EO /苯酚）二甲基丙烯酸酯-BDM，Mn = 1700g mol-1，Sigma Aldrich），聚（离子）液体）[（聚（二烯丙基二甲基铵双（氟磺酰基）酰亚胺，（C10H16F2N2O4S2）n，PDDA-FSI，Mn = 100,000g mol-1）]，锂源（LiTFSI）和合适的紫外（UV）光敏自由基引发剂（2-羟基-2-甲基-1-苯基 - 丙-1-酮，D1173，Ciba Specialty Chemicals）。除非另有说明，否则所有材料均为电池级，无需进一步处理即可使用。交联聚合物电解质由将预聚物混合物与性能最佳的基于RTIL的电解质混合物以20：20：10：50的比例在BDM，PDDA-FSI，LiTFSI和RT-FEC-4中充分混合，包括2重量％的D1173详细说明，在剧烈搅拌下，首先将PDDA-FSI在60°C下添加到RT-FEC-4中以允许支柱解散;然后，将温度降至环境温度，并逐步加入剩余的组分。将得到的粘性液体反应混合物以薄膜的形式浇铸，然后将其置于石英玻璃管中并UV照射3分钟以获得约90±10μm的柔性，自立和完全透明的聚合物电解质膜。厚度（见图8A）[24,26]。样品制备程序在环境控制的气氛中进行，即相对湿度小于2％（20℃，10m 2; Soimar，Italy）的干燥室。
+
+#### 2.2. Lithium-rich NMC (LiR-NMC) synthesis and electrode preparation
+
+
+#### 2.3. Characterisation techniques
