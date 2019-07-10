@@ -1,2 +1,7 @@
 # vscode
 .vscode/
+
+# nodejs
+node_modules/
+package.json
+package-lock.json
