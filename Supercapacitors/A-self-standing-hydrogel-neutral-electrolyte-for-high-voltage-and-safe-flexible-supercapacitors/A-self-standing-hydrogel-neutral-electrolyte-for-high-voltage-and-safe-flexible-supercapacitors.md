@@ -2,8 +2,8 @@
 
 > N.Batisse, E.Raymundo-Piñero
 > Journal of Power Sources, Volume 348, 30 April 2017, Pages 168-174
-> DOI: [10.1016/j.jpowsour.2015.01.039](https://doi.org/10.1016/j.jpowsour.2015.01.039)
-> Keywords: All-solid state supercapacitors, Polymer electrolytes, Polymeric ionic liquids, Ionic liquids, Solid electrolytes
+> DOI: [10.1016/j.jpowsour.2017.03.005](https://doi.org/10.1016/j.jpowsour.2017.03.005)
+> Keywords: Supercapacitor, Hydrogel, Neutral electrolyte, High voltage
 
 ### Highlights
 - An environmental friendly method for producing hydrogel electrolytes is proposed.
