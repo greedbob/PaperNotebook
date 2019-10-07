@@ -39,12 +39,13 @@ Figure 1. (a) Helmholtz, (b) Gouy‐Chapman, and (c) Stern model of the electric
 Since the Helmholtz model does not take into account several factors such as the diffusion of ions in the solution and the interaction between the dipole moment of the solvent and the electrode, Gouy and Chapman proposed a diffuse model of the EDL in which the potential decreases exponentially from the electrode surface to the fluid bulk (Figure 1a).2 However, the Gouy‐Chapman model is insufficient for highly charged double‐layers, and in 1924, Stern3 suggested a model combining the Helmholtz and Gouy‐Chapman models by accounting for the hydrodynamic motion of the ionic species in the diffuse layer and the accumulation of ions close to the electrode surface (Figure 1c). These two layers are equivalent to two capacitors in series, CH (Helmholtz layer) and CD (diffuse layer), and the total capacitance of the electrode (CDL) is given by Equation 2:  
 由于亥姆霍兹模型没有考虑几个因素，例如溶液中离子的扩散以及溶剂的偶极矩与电极之间的相互作用，因此Gouy和Chapman提出了EDL的扩散模型，其中电位以指数方式降低从电极表面到流体体积（图1a）.2然而，Gouy-Chapman模型不足以用于高电荷双层，并且在1924年，Stern3提出了一个模型，结合Helmholtz和Gouy-Chapman模型，考虑到扩散层中离子物质的流体动力学运动和靠近电极表面的离子累积（图1c）。这两层相当于串联的两个电容，CH（亥姆霍兹层）和CD（扩散层），电极的总电容（CDL）由公式2给出：
 
-$\frac{1}{C_{DL}} = \frac{1}{C_H} + \frac{1}{C_D}}$
+$\frac{1}{C_{DL}} = \frac{1}{C_H} + \frac{1}{C_D}$
 
 An electrical double‐layer capacitor (EDLC) consists of two porous carbon, generally activated carbon (AC), electrodes in direct contact with the current collector and separated by a porous film impregnated with an electrolyte solution (Figure 2). When an electric potential difference is applied between the electrodes, the negative charge carriers, electrons, in the negatively polarized electrode are balanced by an equal number of positive cations at the electrode/electrolyte interface, while the holes stored at the positively polarized electrode are electrically balanced by anions. Hence, a supercapacitor consisting of two electrodes is equivalent to two capacitors in series and the resulting capacitance (C) can then be expressed according to Equation 3:  
 双电层电容器（EDLC）由两个多孔碳（通常为活性炭（AC））组成，电极与集电器直接接触，并由浸渍有电解质溶液的多孔膜隔开（图2）。当在电极之间施加电势差时，负极化电极中的负电荷载流子电子在电极/电解质界面处由相等数量的正阳离子平衡，而存储在正极化电极处的空穴是电的。由阴离子平衡。因此，由两个电极组成的超级电容器相当于两个串联的电容器，然后可以根据公式3表示得到的电容（C）：
 
-$\frac{1}{C} = \frac{1}{C_+} + \frac{1}{C_-}}$
+
+$\frac{1}{C} = \frac{1}{C_+} + \frac{1}{C_-}$
 
 where C+, C–, and C are the capacitance (Farad = Coulomb/Volt) of the positive electrode, the negative electrode, and of the resulting device, respectively.
 
