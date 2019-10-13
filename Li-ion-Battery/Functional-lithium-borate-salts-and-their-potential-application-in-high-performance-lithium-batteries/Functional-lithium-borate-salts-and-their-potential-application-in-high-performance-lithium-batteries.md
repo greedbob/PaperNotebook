@@ -383,7 +383,7 @@ LiPEGMB和LiPPGOB可以使用类似的步骤合成。在这些聚阴离子固体
 
 #### 4.2. Lithium polyvinyl alcohol oxalate borate (LiPVAOB) and lithium polyacrylic acid oxalate borate (LiPAAOB) 聚乙烯醇草酸硼酸锂（LiPVAOB）和聚丙烯酸草酸硼酸锂（LiPAAOB）
 Recently, Wu et al. developed lithium polyvinyl alcohol oxalate borate (LiPVAOB) and lithium polyacrylic acid oxalate borate (LiPAAOB), which were synthesized by the reaction of poly(vinyl alcohol) (PVA) or polyacrylic acid (PAA), lithium carbonate, boric acid and oxalic acid, respectively, shown in Scheme 8 [163], [169]. These membranes showed good thermal properties and good morphology. After absorbing 3% amount of PC, the LiPVAOB and LiPAAOB electrolyte membranes showed high ionic conductivity up to 6.11 × 10−6 S cm−1 and 2.3 × 10−6 S cm−1 respectively at 25 °C and stable electrochemical window up to 7 V vs. Li+/Li. They also achieved another gel polymer electrolyte by gelation a sandwiched composite membrane consisted of PVDF/LiPAAOB/PVDF with a LiPF6 liquid electrolyte [163], [165]. The transference number of lithium ion in this GPE (t+ = 0.58) at ambient temperature was double that in the commercial separator saturated with liquid electrolyte (t+ = 0.27), which was shown in Fig. 11. In addition, the phenomenon of gas emission did not occur in the batteries using LiPAAOB, which greatly reduced the risk of explosion when operating at high temperature. So, the LiPAAOB electrolyte shows great possibility for applications in the lithium ion batteries requiring high power and high safety.  
-最近，吴等。开发了聚乙烯醇草酸硼酸锂（LiPVAOB）和聚丙烯酸草酸硼酸锂（LiPAAOB），它们是通过聚乙烯醇（PVA）或聚丙烯酸（PAA），碳酸锂，硼酸和草酸反应合成的，分别在方案8 [163]，[169]中示出。这些膜表现出良好的热性能和良好的形态。吸收3％的PC后，LiPVAOB和LiPAAOB电解质膜在25°C时分别显示出高达6.11×10-6 S cm-1和2.3×10-6 S cm-1的高离子电导率，并且在高达50％的温度下具有稳定的电化学窗口7 V vs.Li+/Li。他们还通过凝胶化由PVDF/LiPAAOB/PVDF和LiPF6液体电解质组成的复合膜，获得了另一种凝胶聚合物电解质[163]，[165]。该GPE在室温下（t+ = 0.58）的锂离子迁移数是在用液体电解质饱和的商用隔膜（t+ = 0.27）中的迁移数的两倍，如图11所示。此外，还有气体排放现象使用LiPAAOB的电池不会发生这种情况，这大大降低了在高温下工作时爆炸的危险。因此，LiPAAOB电解质在需要高功率和高安全性的锂离子电池中显示出很大的可能性。
+最近，吴等开发了聚乙烯醇草酸硼酸锂（LiPVAOB）和聚丙烯酸草酸硼酸锂（LiPAAOB），它们是通过聚乙烯醇（PVA）或聚丙烯酸（PAA），碳酸锂，硼酸和草酸反应合成的，分别在方案8 [163]，[169]中示出。这些膜表现出良好的热性能和良好的形态。吸收3％的PC后，LiPVAOB和LiPAAOB电解质膜在25°C时分别显示出高达6.11×10-6 S cm-1和2.3×10-6 S cm-1的高离子电导率，并且相对于Li+/Li具有7 V的稳定电化学窗口。他们还通过凝胶化由PVDF/LiPAAOB/PVDF和LiPF6液体电解质组成的复合膜，获得了另一种凝胶聚合物电解质[163]，[165]。该GPE在室温下（t+ = 0.58）的锂离子迁移数是在用液体电解质饱和的商用隔膜（t+ = 0.27）中的迁移数的两倍，如图11所示。此外，还有LiPAAOB的电池不会发生气体排放现象这种情况，这大大降低了在高温下工作时爆炸的危险。因此，LiPAAOB电解质在需要高功率和高安全性的锂离子电池中显示出很大的可能性。
 
 ![1-s2.0-S0010854515000612-sc8_lrg.gif](imgs/1-s2.0-S0010854515000612-sc8_lrg.gif)  
 Scheme 8. The synthesis of LiPVAOB and LiPAAOB.
@@ -419,11 +419,11 @@ Table 3. Apparent ionic conductivity comparison for both electrolyte systems.
 
 ![1-s2.0-S0010854515000612-gr14_lrg.jpg](imgs/1-s2.0-S0010854515000612-gr14_lrg.jpg)  
 Fig. 14. (a) The specific capacity vs. cycle number of the Li/LiMn2O4 cells using LiPF6 and LiPTB as electrolyte salts at 55 °C; (b) chronoamperometry profiles for cellulose/LiPTB@PVDF–HFP separator and cellulose separator.  
-图14.（a）在55°C下使用LiPF6和LiPTB作为电解质盐的Li/LiMn2O4电池的比容量与循环数的关系； （b）纤维素/LiPTB @ PVDF-HFP分离器和纤维素分离器的计时电流分析曲线。
+图14.（a）在55°C下使用LiPF6和LiPTB作为电解质盐的Li/LiMn2O4电池的比容量与循环数的关系； （b）纤维素/LiPTB@PVDF-HFP隔膜和纤维素隔膜的计时电流分析曲线。
 
-#### 4.4. Lithium polymeric aromatic borates (LiPAB)
+#### 4.4. Lithium polymeric aromatic borates 聚芳族硼酸锂盐 (LiPAB)
 Some lithium polymeric aromatic borates had been also developed by Prof. Cheng et al. [164], one of which is shown in Scheme 10. These materials exhibited good thermal and electrochemical stability, which may be suitable for applications in Li-ion batteries as electrolytes. Their ionic conductivity was comparable to the conventional liquid electrolytes. Unlike the small molecules of aromatic lithium salts described above, these lithium polymeric aromatic borates possessed relatively higher anodic oxidization stability due to double electro-withdrawing effect of the sp3 boron atoms. After all, these lithium polymeric aromatic borates still have relatively lower electrochemical stability than the non-aromatic borates, which may limit their potential application in high voltage lithium batteries.  
-Cheng教授等人还开发了一些锂聚合物芳族硼酸盐。 [164]，方案10中显示了其中之一。这些材料表现出良好的热稳定性和电化学稳定性，可能适合作为电解质在锂离子电池中应用。它们的离子电导率与常规液体电解质相当。与上述芳族锂盐的小分子不同，这些锂聚合物芳族硼酸盐由于sp3硼原子的双重吸电子作用而具有相对较高的阳极氧化稳定性。毕竟，这些锂聚合物芳族硼酸盐仍比非芳族硼酸盐具有相对较低的电化学稳定性，这可能限制了它们在高压锂电池中的潜在应用。
+Cheng教授等人还开发了一些锂聚合物芳族硼酸盐[164]，方案10中显示了其中之一。这些材料表现出良好的热稳定性和电化学稳定性，可能适合作为电解质在锂离子电池中应用。它们的离子电导率与常规液体电解质相当。与上述芳族锂盐的小分子不同，这些锂聚合物芳族硼酸盐由于sp3硼原子的双重吸电子作用而具有相对较高的阳极氧化稳定性。毕竟，这些锂聚合物芳族硼酸盐仍比非芳族硼酸盐具有相对较低的电化学稳定性，这可能限制了它们在高压锂电池中的潜在应用。
 
 ![1-s2.0-S0010854515000612-sc10_lrg.gif](imgs/1-s2.0-S0010854515000612-sc10_lrg.gif)  
 Scheme 10. Synthetic procedure of the lithium polymeric aromatic borate (LiPAB). 锂聚合的芳族硼酸锂（LiPAB）的合成方法。
