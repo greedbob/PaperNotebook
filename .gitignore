@@ -1,6 +1,7 @@
 # vscode
 .vscode/
 .ide/
+.idea/
 
 # nodejs
 assets/
