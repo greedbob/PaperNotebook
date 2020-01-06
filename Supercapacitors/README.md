@@ -19,4 +19,5 @@
    - 离子凝胶由EMImTFSI，四甲氧基硅烷（TMOS），二甲基二甲氧基硅烷（DMDMS）制成的溶胶获得的。关键点在于，DMDMS可为二氧化硅基质提供柔韧性，并能在碳电极上直接制造无裂纹的离子凝胶。
    - 该离子凝胶具有高离子电导率和良好的机械性能，因此适合在高温全固态EDLC中实施。这些基于离子凝胶的EDLC可以在高达3 V的条件下工作，证明在100°C时具有很高的循环稳定性（25000个循环）以及高比电容。
 
-4. []
+4. [Biredox ionic liquids with solid-like redox density in the liquid state for high-energy supercapacitors 氧化离子液体具有液态固体状氧化还原密度，适用于高能超级电容器](Biredox-ionic-liquids-with-solid-like-redox-density-in-the-liquid-state/Biredox-ionic-liquids-with-solid-like-redox-density-in-the-liquid-state.md)
+   - 电极碳材料：PICA和YP50活性炭以及还原的氧化石墨烯（rGO）
