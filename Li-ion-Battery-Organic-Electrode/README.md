@@ -53,6 +53,12 @@
      -  氧化还原反应的电子传递速率常数通过Koutecký-Levich分析计算得出
      -  恒电流间歇滴定技术（GITT）用于定量充放电过程中PF6-的扩散系数
      -  从芳香性的角度比较感应电流密度（ACID）和核独立化学位移（NICS）分析
+8. [2017 具有可调氧化还原特性的扭曲二酰亚胺，用于有机钠离子电池](2017-Twisted-Perylene-Diimides-with-Tunable-Redox-Properties-for-Organic-Sodium‐Ion-Batteries/aenm.201701316.html.trans.md)  
+   - 通过取代吸电子基团来调节SIB的per二酰亚胺基有机电极的还原电势和电压分布。
+   - 通过诱导系统引入twist环的方法来调节有机材料电压曲线形状的第一项研究。四溴取代的per二酰亚胺（每个二面角为38°）显示出笔直的单平台放电曲线。
+   - 聚合是一种有效的技术，可实现所有衍生物的良好循环稳定性。 
+   - 具有低重量取代基的PDI衍生物，例如四氰基取代的聚酰亚胺（PI-CN4），可以提供比目前的无机材料更高的容量，并且具有单一的平台放电曲线。
+
 
 ## Jun-Chen 南开大学陈军院士
 1. [2013 高能锂电池共轭羰基复合电极的功能导向设计](./Jun-Chen-2013-Function-oriented-design-of-conjugated-carbonyl-compound-electrodes-for-high-energy-lithium-batteries/c3sc22093a.html.trans.md)
