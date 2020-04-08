@@ -95,3 +95,12 @@
      - （1）全固态和准固态电解质可以显着解决溶解问题。在低电流密度下，容量可以接近理论值。 
      - （2）由于迅速提高了离子电导率，因此提高工作温度有利于固态电解质的高倍率性能。 
      - （3）高浓度电解质可抑制有机电极的溶解，这是由于粘度增加和阴离子运动受限所致。同时，仍可以保持接近于常规电解质的相对高的离子电导率。
+5. [2013 用于可充电锂电池大功率电极的熔融杂芳族有机化合物](Jun-Chen-2013-Fused-Heteroaromatic-Organic-Compounds-for-High‐Power-Electrodes-of-Rechargeable-Lithium-Batteries/aenm.201200947.html.md)
+   - ![](https://onlinelibrary.wiley.com/cms/asset/1941ed56-d004-4110-92f9-356a15aa0c7e/mfig001.jpg)  
+   - 认为电极混合物之间的形态差异可能与羰基化合物和导电碳之间的相互作用有关，做了碳基材上分子的吸附能计算。
+   - 认为杂环原子可能增强锂离子扩散，用电化学阻抗做了计算。
+   - 当用Al2O3代替PVDF时，在10C时充放电之间的电势差从1.61 V降低到仅0.66 V。
+6. [2016 高性能杂环可充电锂离子电池的硫杂环醌阴极和多功能粘合剂](Jun-Chen-2016-A-Sulfur-Heterocyclic-Quinone-Cathode-and-a-Multifunctional-Binder-for-a-High‐Performance-Rechargeable-Lithium‐Ion-Battery/anie.201601119.html.md)
+   - 由于引入的S原子引起的最低未占据分子轨道（LUMO）的能级降低，DTT的初始锂离子嵌入电势为2.89 V，比其碳类似物高0.3V。
+   - DTT与PEDOT：PSS之间存在非共价相互作用，从而显着抑制了DTT的溶解并增强了DTT的电导率。
+   - 从理论上讲，LUMO的能级与还原电位相关，而较低的LUMO的能级对应较高的还原电位
