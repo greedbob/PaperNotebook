@@ -104,3 +104,6 @@
    - 由于引入的S原子引起的最低未占据分子轨道（LUMO）的能级降低，DTT的初始锂离子嵌入电势为2.89 V，比其碳类似物高0.3V。
    - DTT与PEDOT：PSS之间存在非共价相互作用，从而显着抑制了DTT的溶解并增强了DTT的电导率。
    - 从理论上讲，LUMO的能级与还原电位相关，而较低的LUMO的能级对应较高的还原电位
+7. [2016 锂离子电池的配位化学方法：一维金属有机材料中金属和配体氧化还原活性的共存](Jun-Chen-2016-A-Coordination-Chemistry-Approach-for-Lithium-Ion-Batteries/article.md)  
+   - ![](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/inocaj/2016/inocaj.2016.55.issue-10/acs.inorgchem.6b00450/20160510/images/medium/ic-2016-00450k_0007.gif)
+   - 这种一维金属有机材料受益于两个结构特征：（i）双重氧化还原活性金属中心和有机成分相互配合以增强电解质的不溶性和稳定性；（ii）配位链通过氢弱连接键，为锂离子扩散提供通道
