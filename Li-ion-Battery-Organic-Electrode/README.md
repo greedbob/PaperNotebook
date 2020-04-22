@@ -107,3 +107,8 @@
 7. [2016 锂离子电池的配位化学方法：一维金属有机材料中金属和配体氧化还原活性的共存](Jun-Chen-2016-A-Coordination-Chemistry-Approach-for-Lithium-Ion-Batteries/article.md)  
    - ![](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/inocaj/2016/inocaj.2016.55.issue-10/acs.inorgchem.6b00450/20160510/images/medium/ic-2016-00450k_0007.gif)
    - 这种一维金属有机材料受益于两个结构特征：（i）双重氧化还原活性金属中心和有机成分相互配合以增强电解质的不溶性和稳定性；（ii）配位链通过氢弱连接键，为锂离子扩散提供通道
+8. [高性能有机锂电池，带有基于醚的电解质和9,10-蒽醌（AQ/CMK-3阴极](Jun-Chen-2015-High‐Performance-Organic-Lithium-Batteries-with-an-Ether‐Based-Electrolyte-and-9-10‐Anthraquinone-(AQ)-CMK‐3-Cathode/advs.201500018.html.md)
+   - AQ电极是通过将60 wt％ AQ，30 wt％ super P和10 wt％的聚偏二氟乙烯PVdF混合于NMP。
+   - AQC阴极，AQC：super P：PVdF之比为8：1：1。Al箔上，在90°C的真空烘箱中干燥12 h。Celgard 2320用作隔板。
+   - 乙醚基于电解质的电解液可有效降低AQ的溶解度。根据先前有关Li-S电池的研究，在醚基电解质中使用LiNO3添加剂可在Li阳极表面形成保护膜，以防止可溶性多硫化物与金属Li之间的反应
+   - 含有30.0 wt％CMK-3的AQC中CMK-3的中孔结构消失了。说明AQ浸入CMK-3的纳米通道，称为纳米约束效应
