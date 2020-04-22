@@ -13,3 +13,5 @@
    - 将AQ封装在CMK-3（AQ /CMK-3）中作为阴极，并采用以高浓度CF3SO3Na（NaTFS）为钠盐的醚类电解质（三乙二醇二甲醚（TEGDME）溶剂）
    - 在不同的浓缩电解质中，AQ /CMK-3总是高于AQ（图S3a，ESI†），这表明CMK-3的限制提高了羰基官能团的利用率
    - 这是由于AQ/CMK-3溶解严重，低钠盐浓度的电解液中库仑效率非常低。与低浓度钠盐电解质相比，4M电解质在5个循环后使其库仑效率达到近100％。这意味着有效降低了AQ的溶解。
+2. [钠离子电池有机羰基电极中的存储机理](Jun-Chen-2015-Unraveling-the-storage-mechanism-in-organic-carbonyl-electrodes-for-sodium-ion-batteries/article.md)
+   - Na-O无机层提供了Na +离子的传输路径和存储位置，而苯有机层提供了电子传输路径和氧化还原中心。
